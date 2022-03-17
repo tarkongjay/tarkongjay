@@ -8,7 +8,7 @@
 - :credit_card: My name is **Parcharapon Kongjay** <img src="https://media.giphy.com/media/6LNwldsbzoFs4/giphy.gif" width="300" align="right"/>
 - :school: I'm study at **Silpakorn University**
 - :books: My major is **Computer Science**
-- :earth_asia: I'm living now in **Samutprakan ,Thailand**
+- :earth_asia: I'm living now in **Samutprakan, Thailand**
 <br>
 <br>
 <br>
