@@ -24,7 +24,4 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarkongjay&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tarkongjay&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tarkongjay-tn&theme=algolia&background=0d1117&hide_border=true" />
-</div>
 
