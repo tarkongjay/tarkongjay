@@ -3,7 +3,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me ( เกี่ยวกับฉัน )
 
 - :credit_card: My name is **Parcharapon Kongjay** <img src="https://media.giphy.com/media/6LNwldsbzoFs4/giphy.gif" width="300" align="right"/>
 - :school: I'm study at **Silpakorn University**
@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-👨 สวัสดีครับ ผม พชรพล กองจาย ชื่อเล่นว่า กีตาร์ เป็นนักศึกษาชั้นปีที่ 3 สาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยศิลปากร
+👨 สวัสดีครับ ผม พชรพล กองจาย ชื่อเล่นว่า "กีตาร์" เป็นนักศึกษาชั้นปีที่ 3 สาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยศิลปากร
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
