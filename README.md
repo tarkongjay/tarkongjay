@@ -13,7 +13,7 @@
 <br>
 <br>
 👨 สวัสดีครับ ผม พชรพล กองจาย ชื่อเล่นว่า "กีตาร์" เป็นนักศึกษาชั้นปีที่ 3 สาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยศิลปากร
-[![Website](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/arjun.bu12/)
+[![Facebook](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/fb.svg?token=AQWYXGXXXHCQPW6TB5K662DAUYRU4)](https://www.facebook.com/arjun.bu12/)
 
 
 
