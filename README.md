@@ -3,7 +3,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"></img> About Me ( เกี่ยวกับฉัน )
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="20px"></img>About Me ( เกี่ยวกับฉัน )
 
 - :credit_card: My name is **Parcharapon Kongjay** <img src="https://media.giphy.com/media/6LNwldsbzoFs4/giphy.gif" width="300" align="right"/>
 - :school: I'm study at **Silpakorn University**
