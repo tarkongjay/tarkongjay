@@ -14,7 +14,7 @@
 <br>
 👨 สวัสดีครับ ผม พชรพล กองจาย เป็นนักศึกษาชั้นปีที่ 4 สาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยศิลปากร
 
-## <img src="https://zellusmarketing.com/wp-content/uploads/2021/03/Marketing-Gif-2.gif" width="20px"> Connect with Me ( ช่องทางติดต่อ )
+## <img src="https://zellusmarketing.com/wp-content/uploads/2021/03/Marketing-Gif-2.gif" width="8px"> Connect with Me ( ช่องทางติดต่อ )
 
 <a href="mailto:tarkongjay@hotmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/parchakj44" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Facebook-00acee?style=for-the-badge&logo=Facebook&logoColor=white"></a>
