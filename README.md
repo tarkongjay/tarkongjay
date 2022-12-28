@@ -3,7 +3,7 @@
 
 ##  About Me ( เกี่ยวกับฉัน )
 
-- :credit_card: My name is **Parcharapon Kongjay** <img src="https://media.giphy.com/media/6LNwldsbzoFs4/giphy.gif" width="500" align="right"/>
+- :credit_card: My name is **Parcharapon Kongjay** <img src="https://camo.githubusercontent.com/8d7974fd592c61dd2b2d60bd536617d0c2285abbca6bf953249f91f31179020f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f364c4e776c6473627a6f4673342f67697068792e676966" width="500" align="right"/>
 - :school: I'm study at **Silpakorn University**
 - :books: My major is **Computer Science**
 - :earth_asia: I'm living now in **Samutprakan, Thailand**
