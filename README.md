@@ -26,6 +26,7 @@
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="Java" title="Java" src="https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="Go" title="Go" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="Go" title="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" wight="42" height="42"></a></code>
 
 
 
