@@ -28,12 +28,19 @@
 <code><a href=""><img alt="Go" title="Go" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="C" title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="Flutter" title="Flutter" src="https://www.codemobiles.com/biz/images/course_shortcut_flutter.png" wight="42" height="42"></a></code>
-
+<code><a href=""><img alt="Dart" title="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" wight="42" height="42"></a></code>
 
 
 ##
-<code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
-<code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+<code><a href=""><img alt="Html" title="Html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="Php" title="Php" src="https://miro.medium.com/max/1400/1*Y1hq9sHXG26Fyhys81z8rg.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="css" title="css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="js" title="js" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="react" title="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="vue" title="vue" src="https://npgblog.dev/static/cf23526f451784ff137f161b8fe18d5a/vue-logo.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="angular" title="angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="bt" title="bt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="tailwind" title="tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" wight="42" height="42"></a></code>
 
 ##  About Some Stats ( สถิติ )
 <div align="center">
