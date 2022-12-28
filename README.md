@@ -23,7 +23,7 @@
 
 
 ##  Some Languages and Tools ( ภาษาและเครื่องมือ )
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="42"></a></code>
 
 ##  About Some Stats ( สถิติ )
 <div align="center">
