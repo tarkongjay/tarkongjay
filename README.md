@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/RK1kR8g.png" alt="Mokkapps GitHub README header image">
+<img src="" alt="parcharaporn header">
 
 
 ##  About Me ( เกี่ยวกับฉัน )
