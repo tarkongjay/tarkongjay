@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1034281692703248425/1057665640615383120/standard.gif" alt="parcharaporn header">
+<img src="https://cdn.discordapp.com/attachments/1034281692703248425/1057665640615383120/standard.gif" width="1200" alt="parcharaporn header">
 
 
 ##  About Me ( เกี่ยวกับฉัน )
