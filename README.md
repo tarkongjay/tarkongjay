@@ -49,9 +49,3 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tarkongjay&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
-<style> 
-@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap'); 
-*{
-  font-family: 'Kanit', sans-serif;
-  }
-</style>
