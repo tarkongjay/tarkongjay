@@ -5,7 +5,7 @@
 
 ##  About Me ( เกี่ยวกับฉัน )
 
-- :credit_card: My name is **Parcharapon Kongjay** <img src="https://media.giphy.com/media/6LNwldsbzoFs4/giphy.gif" width="300" align="right"/>
+- :credit_card: My name is **Parcharapon Kongjay** <img src="https://media.giphy.com/media/6LNwldsbzoFs4/giphy.gif" width="500" align="right"/>
 - :school: I'm study at **Silpakorn University**
 - :books: My major is **Computer Science**
 - :earth_asia: I'm living now in **Samutprakan, Thailand**
@@ -24,7 +24,7 @@
 
 ##  Some Languages and Tools ( ภาษาและเครื่องมือ )
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="42"></a></code>
-
+<code><a href=""><img alt="Bootstrap" title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="42"></a></code>
 
 
 ##
