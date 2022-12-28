@@ -5,7 +5,7 @@
 
 ##  About Me ( เกี่ยวกับฉัน )
 
-- :credit_card: My name is **Parcharapon Kongjay** <img src="https://media.giphy.com/media/6LNwldsbzoFs4/giphy.gif" width="600" align="right"/>
+- :credit_card: My name is **Parcharapon Kongjay** <img src="https://media.giphy.com/media/6LNwldsbzoFs4/giphy.gif" width="500" align="right"/>
 - :school: I'm study at **Silpakorn University**
 - :books: My major is **Computer Science**
 - :earth_asia: I'm living now in **Samutprakan, Thailand**
@@ -26,7 +26,8 @@
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="Java" title="Java" src="https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="Go" title="Go" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" wight="42" height="42"></a></code>
-<code><a href=""><img alt="Go" title="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="C" title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="Flutter" title="Flutter" src="https://www.codemobiles.com/biz/images/course_shortcut_flutter.png" wight="42" height="42"></a></code>
 
 
 
