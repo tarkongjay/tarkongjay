@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Parcharapon+Kongjay;Welcome+to+my+profile!" alt="Title"></img>
 </div>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MehedilslamRipon&label=Profile%20views&color=0e75b6&style=flat" alt="MehedilslamRipon" />
 
 
 ##  About Me ( เกี่ยวกับฉัน )
