@@ -35,7 +35,7 @@
 <code><a href=""><img alt="css" title="css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="js" title="js" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="react" title="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" wight="42" height="42"></a></code>
-<code><a href=""><img alt="vue" title="vue" src="https://npgblog.dev/static/cf23526f451784ff137f161b8fe18d5a/vue-logo.png" wight="42" height="42"></a></code>
+<code><a href=""><img alt="vue" title="vue" src="https://vuejs.org/images/logo.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="angular" title="angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="bt" title="bt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" wight="42" height="42"></a></code>
 <code><a href=""><img alt="tailwind" title="tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" wight="42" height="42"></a></code>
